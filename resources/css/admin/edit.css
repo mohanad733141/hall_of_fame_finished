@@ -1,0 +1,17 @@
+.uploaded_image{
+    height: 50vh;
+    width:50vw;
+
+}
+
+.uploaded_image img{
+    height: 100px;
+    width: 100pxpx;
+
+}
+
+body{
+    background-color: black;
+}
+
+
